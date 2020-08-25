@@ -40,3 +40,11 @@ https://pubmed.ncbi.nlm.nih.gov/28549798/
 
 Replicability of time-varying connectivity patterns in large resting state fMRI samples
 https://www.sciencedirect.com/science/article/pii/S1053811917307681
+
+
+Connectivity in fMRI: Blind Spots and Breakthroughs
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6291757/#FN4
+
+
+Dimensionality reduction impedes the extraction of dynamic functional connectivity states from fMRI recordings of resting wakefulness
+https://www.sciencedirect.com/science/article/abs/pii/S0165027017303424
